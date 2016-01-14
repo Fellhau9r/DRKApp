@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DRK App</string>
+    <string name="app_title">Bereitschaft Östringen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_username">Username</string>
+    <string name="navigation_drawer_email">Usermail</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment01_lb_notAviable">Nicht Verfügbar</string>
+    <string name="fragment01_lb_nfhAviable">Heutige Bereitschaft</string>
+    <string name="fragment01_lb_dateoverview">Terminübersicht</string>
+    <string name="fragment01_lb_nextdate">Die nächsten Termine</string>
+    <string name="fragment01_lb_tweet">Die neueste Nachricht</string>
+    <string name="fragment01_lb_nextBirthday">Die nächsten Geburtstage</string>
+    <string name="fragment01_signInForNFH">Eintragen</string>
+    <string name="fragment01_personRequiredForNFH">Für heute Nacht wird noch eine Person benötigt.</string>
+
+    <string name="fragment02_nextDates">Ihre nächsten Termine</string>
+    <string name="fragment02_allDates">Alle Termine</string>
+    <string name="fragment02_calender">Kalender</string>
+    <string name="fragment02_appointmentTitle">Terminbezeichnung</string>
+
+    <string name="fragment03_calendar_nfh">Notfallhilfekalender</string>
+    <string name="fragment03_calendar_nfh_legend1">Bereitschaft</string>
+    <string name="fragment03_calendar_nfh_legend2">Nicht verfügbar</string>
+
+    <string name="title_activity_login">DRK Östringen</string>
+    <string name="login_info">Geben Sie hier bitte Ihre Anmeldedaten ein.</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Anmelden</string>
+    <string name="action_sign_in_short">Anmelden</string>
+    <string name="error_invalid_email">Die E-Mail Adresse ist nicht registriert</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Das Passwort ist inkorrekt</string>
+    <string name="error_field_required">Bitte geben Sie eine E-Mail Adresse ein</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

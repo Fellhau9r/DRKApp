@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEEEEE</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorPrimaryDarkTransparent">#80000000</color>
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorAccent">#E53935</color>
+    <color name="colorActionBar">#000000</color>
+
+    <!-- Colors for Custom Calendar View -->
+    <color name="default_invalid_cell_text_color">#878787</color>
+    <color name="default_bg_weeklabel">#FFFFFF</color>
+    <color name="default_bg_selected_cell">#EEEEEE</color>
+    <color name="default_bg_today">#B71C1C</color>
+    <color name="default_valid_cell_text_color">#000000</color>
+    <color name="default_line_color">#9E9E9E</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="default_bg_normal_cell">#FFFFFF</color>
+</resources>

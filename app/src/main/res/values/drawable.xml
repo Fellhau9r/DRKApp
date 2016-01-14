@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="nav_head_text">#FFFFFF</drawable>
+    <drawable name="transparent">#FFFFFFFF</drawable>
+
+</resources>

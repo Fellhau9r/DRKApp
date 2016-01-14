@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_start" android:icon="@android:drawable/ic_menu_compass"
+            android:title="Start" />
+        <item android:id="@+id/nav_appointments" android:icon="@android:drawable/ic_menu_today"
+            android:title="Termine" />
+        <item android:id="@+id/nav_missions" android:icon="@android:drawable/ic_menu_directions"
+            android:title="Einsätze" />
+        <item android:id="@+id/nav_stats" android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Statistik" />
+    </group>
+
+</menu>

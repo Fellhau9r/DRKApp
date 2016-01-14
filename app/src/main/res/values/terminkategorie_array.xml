@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="terminbesetzung_array">
+        <item>Ausbildung</item>
+        <item>Bereitschaft</item>
+        <item>Besprechung/Sitzung</item>
+        <item>Blutspenden</item>
+        <item>Festveranstaltung</item>
+        <item>Lehrgang</item>
+        <item>Sanitätsdienst</item>
+        <item>Turnierteilnahme</item>
+        <item>Übungseinheit</item>
+        <item>sonstiges</item>
+    </string-array>
+</resources>
